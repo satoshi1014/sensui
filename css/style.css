@@ -256,7 +256,7 @@
         margin-right: 20px;
     }
     #main-image-list li a {
-        color: white;
+        color: black;
         font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
     }
     #main-image-sub-title {
@@ -266,7 +266,7 @@
         transform: translate(-50%, -50%);
         -webkit-transform: translate(-50%, -50%);
         -ms-transform: translate(-50%, -50%);
-        color: white;
+        color: black;
         font-family: 'PT Serif', serif;
         font-size: 20px;
     }
@@ -277,7 +277,7 @@
         transform: translate(-50%, -50%);
         -webkit-transform: translate(-50%, -50%);
         -ms-transform: translate(-50%, -50%);
-        color: white;
+        color: black;
         font-family: 'PT Serif', serif;
         font-size: 60px;
     }
