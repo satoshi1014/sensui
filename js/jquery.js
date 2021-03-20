@@ -1,8 +1,8 @@
 $(function(){
     $('.slick01').slick({ //{}を入れる
-        autoplay: true, //「オプション名: 値」の形式で書く
+        // autoplay: true,
         dots: true, //複数書く場合は「,」でつなぐ
-        autoplaySpeed:5000,
+        // autoplaySpeed:5000,
     });
   var $nav   = $('#navArea');
   var $btn   = $('.toggle_btn');
